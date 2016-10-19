@@ -1,5 +1,5 @@
 # intercom-laravel
-Laravel 5.x Wrapper for Intercom API
+Laravel 5.x Wrapper for Intercom API forked from Alex Slaughter repo https://github.com/slaughter550/intercom-laravel
 
 ## Installation
 
@@ -9,11 +9,11 @@ Using Composer:
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/slaughter550/intercom-laravel"
+            "url": "https://github.com/massreuy/intercom-laravel"
         }
     ],
     "require": {
-        "slaughter550/intercom-laravel": "~1.1"
+        "massreuy/intercom-laravel": "~1.1"
     }
 }
 ```
